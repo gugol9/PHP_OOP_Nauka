@@ -1,6 +1,6 @@
 <?php
 
-/*
+/* GADY
 
 class gady
 {
